@@ -17,7 +17,6 @@ analyzer = AnalyzerEngine()
 anonymizer = AnonymizerEngine()
 
 # prepare prompts
-prefix_prompt = "You will be asked a question after reading several passages. Please directly answer the question based on the given passages. Do NOT repeat the question. The answer should be within 5 words..\nPassages:\n"
 query_prompt = "\n\nAnswer the question directly based on the given passages. Do NOT repeat the question. The answer should be within 5 words. \nQuestion:"
 
 # init bert ner model and tokenizer
