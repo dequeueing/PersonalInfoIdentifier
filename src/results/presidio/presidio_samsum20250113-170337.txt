@@ -1,0 +1,43 @@
+Dataset: inputs/samsum.json 48th example:
+Original Text: Dialogue: Felicity: Hi! :)
+George: hi
+Felicity: Such a question
+Steve: ?
+Felicity: Do we have sth for Mike??
+Clara: Why asking??
+Felicity: His bday... tomorrow...?
+Clara: Whaaaaaat, tmrw?? Not next week?? 😧
+Felicity: Tomorrow, for sure
+George: damn, i've also forgotten
+Felicity: Sooooo......
+Clara: So we're screwed xD
+George: what time is it?
+Felicity: Starts 6pm
+George: well
+George: i can buy sth tmrw after work
+Felicity: Really? Would be gr8
+George: i can finish a bit earlier
+George: on Fridays nobody cares
+Felicity: :D
+Summary: Mike's birthday is tomorrow. Clara thought it was next week. George didn't remember at all. George is going to leave work earlier tomorrow to get the present for Mike.
+Anonymized Text: Dialogue: Felicity: Hi! :)
+<PERSON>: hi
+Felicity: Such a question
+<PERSON>: ?
+Felicity: Do we have sth for <PERSON>??
+<PERSON>: Why asking??
+<PERSON>: His bday... tomorrow...?
+<PERSON>: Whaaaaaat, tmrw?? Not <DATE_TIME>?? 😧
+Felicity: <DATE_TIME>, for sure
+<PERSON>: damn, i've also forgotten
+Felicity: Sooooo......
+<PERSON>: So we're screwed xD
+George: what time is it?
+Felicity: Starts <DATE_TIME><PERSON>: well
+<PERSON>: i can buy sth tmrw after work
+Felicity: Really? Would be gr8
+<PERSON>: i can finish a bit earlier
+<PERSON>: on <DATE_TIME> nobody cares
+<PERSON>: :D
+Summary: <PERSON>'s birthday is <DATE_TIME>. <PERSON> thought it was <DATE_TIME>. <PERSON> didn't remember at all. <PERSON> is going to leave work <DATE_TIME> to get the present for <PERSON>.
+

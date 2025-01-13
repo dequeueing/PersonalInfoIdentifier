@@ -1,0 +1,43 @@
+Original Text: Dialogue: Felicity: Hi! :)
+George: hi
+Felicity: Such a question
+Steve: ?
+Felicity: Do we have sth for Mike??
+Clara: Why asking??
+Felicity: His bday... tomorrow...?
+Clara: Whaaaaaat, tmrw?? Not next week?? 😧
+Felicity: Tomorrow, for sure
+George: damn, i've also forgotten
+Felicity: Sooooo......
+Clara: So we're screwed xD
+George: what time is it?
+Felicity: Starts 6pm
+George: well
+George: i can buy sth tmrw after work
+Felicity: Really? Would be gr8
+George: i can finish a bit earlier
+George: on Fridays nobody cares
+Felicity: :D
+Summary: Mike's birthday is tomorrow. Clara thought it was next week. George didn't remember at all. George is going to leave work earlier tomorrow to get the present for Mike.
+Anonymized Text: Dialogue: [MASK]licity: Hi! :)
+[MASK]: hi
+[MASK]licity: Such a question
+[MASK]: ?
+[MASK]licity: Do we have sth for [MASK]??
+[MASK]: Why asking??
+[MASK]licity: His bday... tomorrow...?
+Clara: Whaaaaaat, tmrw?? Not next week?? 😧
+[MASK]licity: Tomorrow, for sure
+[MASK]: damn, i've also forgotten
+[MASK]licity: Sooooo......
+[MASK]: So we're screwed xD
+[MASK]: what time is it?
+[MASK]licity: Starts 6pm
+[MASK]: well
+[MASK]: i can buy sth tmrw after work
+Felicity: Really? Would be gr8
+[MASK]: i can finish a bit earlier
+[MASK]: on Fridays nobody cares
+Felicity: :D
+Summary: [MASK]'s birthday is tomorrow. [MASK] thought it was next week. [MASK] didn't remember at all. [MASK] is going to leave work earlier tomorrow to get the present for [MASK].
+
