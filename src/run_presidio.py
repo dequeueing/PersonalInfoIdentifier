@@ -6,7 +6,7 @@ import random
 import time
 
 DATASET = ['musique_s', 'wikimqa_s', 'samsum']
-CHOICE = 2
+CHOICE = 1
 
 # load the dataset
 dataset = 'inputs/' + DATASET[CHOICE] + '.json'
@@ -29,7 +29,10 @@ flag = False
 for _  in range(1):
     # choose a random example
     index = random.randint(0, len(eval_dataset))
+    index = 178
     ex = eval_dataset[index]
+    with open(result_file, "a") as f:
+        f.write(f"Example {index}:\n")
     
     # parse the example
     answers = ex["answers"]
@@ -58,5 +61,6 @@ for _  in range(1):
         f.write(f"Original text: {doc_prompts}\n")
         f.write(f"Anonymized text: {anonymized_results.text}\n")
         f.write("\n\n")
+        f.write(f"ner model: presidio\n")
     
     
